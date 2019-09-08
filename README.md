@@ -8,7 +8,7 @@ The Sensor NFC Application Reference Design is one component of the Intel® RSP 
 The application was developed with [Android Studio](https://developer.android.com/studio/index.html). Installing Android Studio will install additional dependencies such as Gradle support and the Android SDK. As of the time of writing this README, the app targeted Android 8.0 (Oreo) which is version 26. Check the [Android Manifest](app/src/main/AndroidManifest.xml) to figure out which versions of the Android SDK to install.
 
 #### Security Credentials
-The security credentials for a sensor consist of a root CA certificate and a provisioning token. With these items a sensor and gateway can mutually authenticate when connecting. securely provision the sensor should be available. Generating the credentials is a function of the [Intel® RFID Sensor Platform Gateway](../gateway). If these files have not been generated, please see the Gateway project for more details.
+The security credentials for a sensor consist of a root CA certificate and a provisioning token. With these items a sensor and gateway can mutually authenticate when connecting. securely provision the sensor should be available. Generating the credentials is a function of the [Intel® RSP Controller application](../gateway). If these files have not been generated, please see the Gateway project for more details.
 
 
 #### Getting Started
