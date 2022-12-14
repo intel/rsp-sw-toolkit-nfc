@@ -1,3 +1,12 @@
+DISCONTINUATION OF PROJECT. 
+
+This project will no longer be maintained by Intel.
+
+This project has been identified as having known security escapes.
+
+Intel has ceased development and contributions including, but not limited to, maintenance, bug fixes, new releases, or updates, to this project.  
+
+Intel no longer accepts patches to this project.
 # Sensor NFC Application
 
 The Sensor NFC Application Reference Design is one component of the Intel® RSP SW Toolkit.  This application is used to program security credentials into the Intel® RFID Sensor Platform (Intel® RSP).  The features included in this reference design are intended to provide the minimum functionality required to program the Intel® RSP.
